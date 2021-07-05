@@ -1,0 +1,152 @@
+body{
+   
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+  
+  }
+  
+  h1{
+      font-size: 50px;
+      font-weight: bold;
+      margin-top: 20px;
+  }
+  
+  h2{
+      text-align: center;
+      font-weight: 500bold;
+  
+  }
+  
+  ul {
+    list-style: none;
+    margin: 20px;
+    padding: 0;
+  }
+  ul li a{
+    padding: 5px;
+  }
+  ul li a:hover{
+      color: green;
+  }
+  
+  .menu a{
+      text-decoration: none;
+      float: right;
+      padding:10px 30px;
+      overflow: hidden;
+  
+  }
+  
+  
+  
+  .name-highlight{
+    color: tomato;
+  }
+  
+  .half-width{
+  
+      width: 30%;
+      float: left;
+      margin-top: 10%;
+      margin-left: 8%;
+      padding-left: 2%;
+  
+  }
+  
+  .half-width img{
+      width: 100%;
+  }
+  
+  section{
+      height:600px;
+  }
+  .button {
+  
+      text-decoration: none;
+      border: 2px solid red;
+      background-image: linear-gradient(180deg,red, tomato);
+      border-radius: 5px;
+      padding: 10px ;
+  
+  }
+  .social-icon{
+     background-image: linear-gradient(180deg,red, tomato);
+       Padding: 10px ;
+       border-radius: 5px;
+  }
+  
+  
+  .font-icon{
+    color:  red;
+  }
+  
+  .card{
+      width: 350px;
+      margin-left: 5%;
+      padding: 2%;
+      box-sizing: border-box;
+      box-shadow:5px 10px 10px gray ;
+      border-radius: 10px;
+      float: left;
+      background-color: white;
+  }
+  .image-style{
+  
+      width: 100%;
+  }
+  
+  .color-tag{
+      color: #363958;
+  }
+  
+  .card-class{
+      background-color: #E5E5E5;
+  }
+  
+  .big-button{
+      text-decoration: none;
+      align-items: center;
+      justify-content: center;
+      display:flex;
+      margin: 0;
+      padding: 0;
+    position: relative;
+    top: 50%;
+  
+  
+  }
+  
+  .btn{
+     background-image: url("shapes/button.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+       text-decoration: none;
+       font-size: 18px;
+       font-weight: 700;
+       width: 100%
+       padding-top: 200px;
+       padding-bottom: 50px;
+       padding-right: 250px;
+       padding-left: 80px;
+  }
+    .last-item{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+  
+    }
+     
+     
+      .fotter-social{
+          height: 300px;
+          align-items: center;
+        justify-content: center;
+        text-align: center;
+       
+      }
+  
+       a {
+          height: 100px;
+          width:100px;
+      }
+  
